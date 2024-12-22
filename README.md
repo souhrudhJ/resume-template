@@ -1,2 +1,2 @@
 # resume-template
-Resume template using html and css for college
+Resume template using html and css (college project)
